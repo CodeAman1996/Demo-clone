@@ -1,0 +1,30 @@
+MSH|^~\&|CGMLABDAQ|300|||202309192302||ORU^R01|d29d68e8-ad58-45ad-8e34-846135cfb511|P|2.4|||AA
+PID|1|105162|||Campbell^Christan||19821103|F|||251 BONURA RD^^SOUR LAKE^TX^77659|||9037153854||||||||||||||9999
+ORC|RE|41536|AR9769||||||202309191227||||373^Dedicated Medical Center & Urgent Care - Woodville||||300
+OBR|1|41536|AR9769|30005^STI PCR Panel||202309191227|202309190000|||MU|A|||202309191947|Urine|1073981460^Evett^Christina^^^^^N||||1^Advanta Genetics^10935 CR 159^^Tyler^TX^75703^^ Mary Long, Ph.D., NRCC||202309192258|||F||1^^^^^R
+OBX|1|ST|30911^Candida albicans^L^^^LN||N/A^N/A^Negative||||||F|||202309192258|1
+OBX|2|ST|30912^Candida glabrata^L^^^LN||N/A^N/A^Negative||||||F|||202309192258|1
+OBX|3|ST|30955^Atopobium vaginae^L^^^LN||2.17E+06^MEDIUM^Positive||||||F|||202309192258|1
+OBX|4|ST|30956^Bacterial Vaginosis-Associated Bacterium 1^L^^^LN||N/A^N/A^Negative||||||F|||202309192258|1
+OBX|5|ST|30957^Bacterial Vaginosis-Associated Bacterium 2^L^^^LN||4.41E+05^MEDIUM^Positive||||||F|||202309192258|1
+OBX|6|ST|30958^Bacterial Vaginosis-Associated Bacterium 3^L^^^LN||N/A^N/A^Negative||||||F|||202309192258|1
+OBX|7|ST|30959^Chlamydia trachomatis^L^^^LN||N/A^N/A^Negative||||||F|||202309192258|1
+OBX|8|ST|30960^Gardnerella vaginalis^L^^^LN||4.89E+05^MEDIUM^Positive||||||F|||202309192258|1
+OBX|9|ST|30961^Herpes Simplex Virus 1 and 2^L^^^LN||N/A^N/A^Negative||||||F|||202309192258|1
+OBX|10|ST|30962^Megasphaera^L^^^LN||N/A^N/A^Negative||||||F|||202309192258|1
+OBX|11|ST|30963^Megasphaera type I^L^^^LN||N/A^N/A^Negative||||||F|||202309192258|1
+OBX|12|ST|30964^Megasphaera type II^L^^^LN||N/A^N/A^Negative||||||F|||202309192258|1
+OBX|13|ST|30965^Mobiluncus curtisii^L^^^LN||N/A^N/A^Negative||||||F|||202309192258|1
+OBX|14|ST|30966^Mobiluncus mulieris^L^^^LN||N/A^N/A^Negative||||||F|||202309192258|1
+OBX|15|ST|30967^Mycoplasma genitalium^L^^^LN||N/A^N/A^Negative||||||F|||202309192258|1
+OBX|16|ST|30968^Neisseria gonorrhoeae^L^^^LN||N/A^N/A^Negative||||||F|||202309192258|1
+OBX|17|ST|30969^Treponema pallidum^L^^^LN||N/A^N/A^Negative||||||F|||202309192258|1
+OBX|18|ST|30970^Trichomonas vaginalis^L^^^LN||1.40E+04^LOW^Positive||||||F|||202309192258|1
+OBX|19|ST|30971^Ureaplasma urealyticum/parvum^L^^^LN||N/A^N/A^Negative||||||F|||202309192258|1
+OBX|20|ST|30109^Beta Lactamase (TEM)^L^^^LN||Negative||Negative||||F|||202309192258|1
+OBX|21|ST|30145^Tetracycline (tetM)^L^^^LN||Negative||Negative||||F|||202309192258|1
+DG1|1|10|B34.9
+DG1|2|10|R50.9
+DG1|3|10|M54.50
+ZUD|1|Urine|SpecimenSourceCode
+ZUD|2|ADV|Billing Type

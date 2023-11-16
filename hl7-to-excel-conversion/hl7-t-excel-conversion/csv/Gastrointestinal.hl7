@@ -1,0 +1,39 @@
+MSH|^~\&|CGMLABDAQ|43|||202309062306||ORU^R01|4373ed33-5c44-4851-bcf0-ca7ee56ee66a|P|2.4|||AA
+PID|1|104731|||Weaver^Ehlijah||20230204|M|||1512 Lilac Ave^^Lufkin^TX^75901|||9362292626||||||||||||||9999
+ORC|RE|39362|AR17948||||||202309061905||||44^Dedicated Medical Center & Urgent Care - Lufkin||||43
+OBR|1|39362|AR17948|30001^GI PCR Panel||202309061905|202309051905|||MU|A|||202309061931|Fecal Swab|1073981460^Evett^Christina^^^^^N||||1^Advanta Genetics^10935 CR 159^^Tyler^TX^75703^^ Mary Long, Ph.D., NRCC||202309062259|||F||1^^^^^R
+OBX|1|ST|30935^Ancylostoma duodenale^L^^^LN||N/A^N/A^Negative||||||F|||202309062259|1
+OBX|2|ST|30936^Campylobacter Species^L^^^LN||N/A^N/A^Negative||||||F|||202309062259|1
+OBX|3|ST|30937^Clostridioides difficile^L^^^LN||5.36E+04^LOW^Positive||||||F|||202309062259|1
+OBX|4|ST|30938^Cryptosporidium Species^L^^^LN||N/A^N/A^Negative||||||F|||202309062259|1
+OBX|5|ST|30939^Entamoeba histolytica^L^^^LN||N/A^N/A^Negative||||||F|||202309062259|1
+OBX|6|ST|30940^Enterobius vermicularis^L^^^LN||N/A^N/A^Negative||||||F|||202309062259|1
+OBX|7|ST|30941^Enterohemorragic/verotoxin producing Escherichia coli^L^^^LN||N/A^N/A^Negative||||||F|||202309062259|1
+OBX|8|ST|30942^Enteroinvasive Escherichia coli^L^^^LN||N/A^N/A^Negative||||||F|||202309062259|1
+OBX|9|ST|30943^Giardia lamblia^L^^^LN||N/A^N/A^Negative||||||F|||202309062259|1
+OBX|10|ST|30944^Helicobacter pylori^L^^^LN||N/A^N/A^Negative||||||F|||202309062259|1
+OBX|11|ST|30945^Human adenovirus^L^^^LN||N/A^N/A^Negative||||||F|||202309062259|1
+OBX|12|ST|30946^Human astrovirus^L^^^LN||N/A^N/A^Negative||||||F|||202309062259|1
+OBX|13|ST|30947^Necator americanus^L^^^LN||N/A^N/A^Negative||||||F|||202309062259|1
+OBX|14|ST|30948^Norovirus G1^L^^^LN||N/A^N/A^Negative||||||F|||202309062259|1
+OBX|15|ST|30949^Norovirus G2^L^^^LN||N/A^N/A^Negative||||||F|||202309062259|1
+OBX|16|ST|30950^Rotavirus^L^^^LN||N/A^N/A^Negative||||||F|||202309062259|1
+OBX|17|ST|30951^Salmonella^L^^^LN||N/A^N/A^Negative||||||F|||202309062259|1
+OBX|18|ST|30952^Sapovirus^L^^^LN||N/A^N/A^Negative||||||F|||202309062259|1
+OBX|19|ST|30953^Shigella Species^L^^^LN||N/A^N/A^Negative||||||F|||202309062259|1
+OBX|20|ST|30954^Yersinia enterocolitica^L^^^LN||N/A^N/A^Negative||||||F|||202309062259|1
+OBX|21|ST|30097^Aminoglycoside (aph3)^L^^^LN||Negative||Negative||||F|||202309062259|1
+OBX|22|ST|30101^Beta Lactamase (CTX-M-Grp1)^L^^^LN||Negative||Negative||||F|||202309062259|1
+OBX|23|ST|30105^Beta Lactamase (SHV)^L^^^LN||Negative||Negative||||F|||202309062259|1
+OBX|24|ST|30109^Beta Lactamase (TEM)^L^^^LN||Negative||Negative||||F|||202309062259|1
+OBX|25|ST|30113^Carbapenem (NDM)^L^^^LN||Negative||Negative||||F|||202309062259|1
+OBX|26|ST|30117^Carbapenem (KPC)^L^^^LN||Negative||Negative||||F|||202309062259|1
+OBX|27|ST|30121^Carbapenem (OXA)^L^^^LN||Negative||Negative||||F|||202309062259|1
+OBX|28|ST|30125^Fluoroquinolone (gyrA)^L^^^LN||Negative||Negative||||F|||202309062259|1
+OBX|29|ST|30129^Fluoroquinolone (qnr)^L^^^LN||Negative||Negative||||F|||202309062259|1
+OBX|30|ST|30137^Sulfonamide (Sul1)^L^^^LN||Negative||Negative||||F|||202309062259|1
+OBX|31|ST|30141^Tetracycline (tetB)^L^^^LN||Negative||Negative||||F|||202309062259|1
+OBX|32|ST|30145^Tetracycline (tetM)^L^^^LN||Positive||Negative|POS|||F|||202309062259|1
+DG1|1|10|K62.5
+ZUD|1|Fecal Swab|SpecimenSourceCode
+ZUD|2|ADV|Billing Type

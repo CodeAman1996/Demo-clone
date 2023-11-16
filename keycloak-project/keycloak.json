@@ -1,0 +1,9 @@
+{
+    "clientId": "node-js microservice",
+    "bearerOnly": true,
+    "serverUrl": "http://localhost:8080",
+    "realm": "Docker-realm",
+    "credentials": {
+        "secret": "NX7y04B6tUpcdepXLGaTxABD7gXtPyhC"
+    }
+}

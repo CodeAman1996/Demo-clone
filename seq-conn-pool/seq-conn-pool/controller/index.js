@@ -1,0 +1,1 @@
+const model1= require('../models').model1;
