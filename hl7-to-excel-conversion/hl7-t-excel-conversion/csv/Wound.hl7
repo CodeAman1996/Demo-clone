@@ -1,0 +1,51 @@
+MSH|^~\&|CGMLABDAQ|304|||202309192320||ORU^R01|b5d1e5d8-e92c-4a5f-ba4e-67f0a703f9cf|P|2.4|||AA
+PID|1|17745|||AYE^KA MOE||20080922|M|||2727 VIRGINIA CIRCLE^^Amarillo^TX^79108|||||||||||||||||9999
+ORC|RE|41616|||||||202309191605||||377^Amarillo Urgent Care||||304
+OBR|1|41616||30013^Wound PCR Panel||202309191605|202309191605|||MU|A|||202309191605|Wound Swab|1750043626^Lupercio^Caroline^^^^^N||||1^Advanta Genetics^10935 CR 159^^Tyler^TX^75703^^ Mary Long, Ph.D., NRCC||202309192315|||F||1^^^^^R
+OBX|1|ST|30907^Acinetobacter baumannii^L^^^LN||N/A^N/A^Negative||||||F|||202309192315|1
+OBX|2|ST|30908^Actinotignum schaalii^L^^^LN||N/A^N/A^Negative||||||F|||202309192315|1
+OBX|3|ST|30909^Aerococcus urinea^L^^^LN||N/A^N/A^Negative||||||F|||202309192315|1
+OBX|4|ST|30910^Bacteroides fragilis^L^^^LN||N/A^N/A^Negative||||||F|||202309192315|1
+OBX|5|ST|30911^Candida albicans^L^^^LN||N/A^N/A^Negative||||||F|||202309192315|1
+OBX|6|ST|30912^Candida glabrata^L^^^LN||N/A^N/A^Negative||||||F|||202309192315|1
+OBX|7|ST|30913^Candida parapsilosis^L^^^LN||N/A^N/A^Negative||||||F|||202309192315|1
+OBX|8|ST|30914^Candida tropicalis^L^^^LN||N/A^N/A^Negative||||||F|||202309192315|1
+OBX|9|ST|30915^Citrobacter species^L^^^LN||N/A^N/A^Negative||||||F|||202309192315|1
+OBX|10|ST|30916^Enterobacter cloacae^L^^^LN||N/A^N/A^Negative||||||F|||202309192315|1
+OBX|11|ST|30917^Enterococcus faecalis^L^^^LN||N/A^N/A^Negative||||||F|||202309192315|1
+OBX|12|ST|30918^Enterococcus faecium^L^^^LN||N/A^N/A^Negative||||||F|||202309192315|1
+OBX|13|ST|30933^Epidermophyton floccosum^L^^^LN||N/A^N/A^Negative||||||F|||202309192315|1
+OBX|14|ST|30919^Escherichia coli^L^^^LN||N/A^N/A^Negative||||||F|||202309192315|1
+OBX|15|ST|30920^Klebsiella aerogenes^L^^^LN||N/A^N/A^Negative||||||F|||202309192315|1
+OBX|16|ST|30921^Klebsiella oxytoca^L^^^LN||N/A^N/A^Negative||||||F|||202309192315|1
+OBX|17|ST|30922^Klebsiella pneumoniae^L^^^LN||N/A^N/A^Negative||||||F|||202309192315|1
+OBX|18|ST|30923^Morganella morganii^L^^^LN||N/A^N/A^Negative||||||F|||202309192315|1
+OBX|19|ST|30924^Prevotella bivia^L^^^LN||N/A^N/A^Negative||||||F|||202309192315|1
+OBX|20|ST|30925^Proteus mirabilis^L^^^LN||N/A^N/A^Negative||||||F|||202309192315|1
+OBX|21|ST|30926^Proteus vulgaris^L^^^LN||N/A^N/A^Negative||||||F|||202309192315|1
+OBX|22|ST|30927^Pseudomonas aeruginosa^L^^^LN||N/A^N/A^Negative||||||F|||202309192315|1
+OBX|23|ST|30928^Serratia marcescens^L^^^LN||N/A^N/A^Negative||||||F|||202309192315|1
+OBX|24|ST|30929^Staphylococcus aureus^L^^^LN||3.37E+07^HIGH^Positive||||||F|||202309192315|1
+OBX|25|ST|30930^Staphylococcus saprophyticus^L^^^LN||N/A^N/A^Negative||||||F|||202309192315|1
+OBX|26|ST|30931^Streptococcus agalactiae (GBS)^L^^^LN||N/A^N/A^Negative||||||F|||202309192315|1
+OBX|27|ST|30932^Streptococcus pyogenes (GAS)^L^^^LN||N/A^N/A^Negative||||||F|||202309192315|1
+OBX|28|ST|30934^Trichophyton rubrum^L^^^LN||N/A^N/A^Negative||||||F|||202309192315|1
+OBX|29|ST|30093^Aminoglycoside (ant-la)^L^^^LN||Negative||Negative||||F|||202309192315|1
+OBX|30|ST|30097^Aminoglycoside (aph3)^L^^^LN||Negative||Negative||||F|||202309192315|1
+OBX|31|ST|30101^Beta Lactamase (CTX-M-Grp1)^L^^^LN||Negative||Negative||||F|||202309192315|1
+OBX|32|ST|30105^Beta Lactamase (SHV)^L^^^LN||Negative||Negative||||F|||202309192315|1
+OBX|33|ST|30109^Beta Lactamase (TEM)^L^^^LN||Negative||Negative||||F|||202309192315|1
+OBX|34|ST|30113^Carbapenem (NDM)^L^^^LN||Negative||Negative||||F|||202309192315|1
+OBX|35|ST|30117^Carbapenem (KPC)^L^^^LN||Negative||Negative||||F|||202309192315|1
+OBX|36|ST|30121^Carbapenem (OXA)^L^^^LN||Negative||Negative||||F|||202309192315|1
+OBX|37|ST|30125^Fluoroquinolone (gyrA)^L^^^LN||Negative||Negative||||F|||202309192315|1
+OBX|38|ST|30129^Fluoroquinolone (qnr)^L^^^LN||Negative||Negative||||F|||202309192315|1
+OBX|39|ST|30133^Methicillin (MecA)^L^^^LN||Negative||Negative||||F|||202309192315|1
+OBX|40|ST|30137^Sulfonamide (Sul1)^L^^^LN||Negative||Negative||||F|||202309192315|1
+OBX|41|ST|30141^Tetracycline (tetB)^L^^^LN||Negative||Negative||||F|||202309192315|1
+OBX|42|ST|30145^Tetracycline (tetM)^L^^^LN||Negative||Negative||||F|||202309192315|1
+OBX|43|ST|30153^Vancomycin (VanB)^L^^^LN||Negative||Negative||||F|||202309192315|1
+OBX|44|ST|30157^Vancomycin (VanA)^L^^^LN||Negative||Negative||||F|||202309192315|1
+OBX|45|ST|30161^Vancomycin (VanM)^L^^^LN||Negative||Negative||||F|||202309192315|1
+ZUD|1|Wound Swab|SpecimenSourceCode
+ZUD|2|ADV|Billing Type
